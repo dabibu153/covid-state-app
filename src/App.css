@@ -1,0 +1,12 @@
+button {
+  background-color: #4caf50;
+  height: 30px;
+  width: 70px;
+}
+.test {
+  display: flex;
+  flex-wrap: wrap;
+}
+.test2 {
+  text-align: center;
+}
